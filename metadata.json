@@ -1,0 +1,5 @@
+{
+  "name": "Recipe Extractor AI",
+  "description": "An application that takes a recipe URL, parses the content using AI, and presents a clean, ad-free version of the recipe's name, ingredients, and instructions.",
+  "requestFramePermissions": []
+}
